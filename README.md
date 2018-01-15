@@ -43,4 +43,4 @@ Official Life value by datas of Local Government (TL/Gold)  c/4/30 = 0.00015 TL 
 DijIOT (TL/Gold): (d/86400) = 0.00182
 
 
-DijIOT developped and launched by the Dijital Ronesans Dijital Danışmanlık ve Güvenlik Hizmetleri A.Ş. (will be call as Dijital Rönesans from now on)
+DijIOT developped and launched by the Dijital Ronesans Dijital Teknoloji (will be call as Dijital Rönesans from now on)
